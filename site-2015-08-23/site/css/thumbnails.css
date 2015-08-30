@@ -1,0 +1,25 @@
+.thumbnail {
+  max-width: 270px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thumbnail .caption {
+  margin-top: 23px;
+}
+.thumbnail3 {
+  max-width: 270px;
+}
+.thumbnail4 {
+  max-width: 370px;
+}
+.thumbnail4_mod {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.thumbnail4_mod .caption {
+  padding: 2px 16px 35px;
+}
+@media (max-width: 991px) {
+  .thumbnail6 {
+    max-width: 370px;
+  }
+}
